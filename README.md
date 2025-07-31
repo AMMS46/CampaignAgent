@@ -22,7 +22,7 @@ socialagent/
 └──  All demo.py              # for testing individual agents
 ```
 
-### LangGraph Workflow
+### CrewAI Workflow
 The system uses LangGraph for sophisticated workflow orchestration:
 
 1. **Input Validation** → Validate product description and goals
