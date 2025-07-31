@@ -17,9 +17,9 @@ This system uses four specialized AI agents working together to create comprehen
 ```
 socialagent/
 ├── campaign_assistant.py  # Main system with 4 CrewAI agents
-├── All demo.py       # for individual agent testing
+├── Agents       # contains all agents
 ├── requirements.txt       # Dependencies (only 5 packages!)
-└── README.md              # Documentation
+└──  All demo.py              # for testing individual agents
 ```
 
 ### LangGraph Workflow
