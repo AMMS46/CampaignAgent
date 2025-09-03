@@ -1,7 +1,4 @@
 # Multi-Agent Campaign Assistant
-OPENROUTER_API_KEY = "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"
-OPENAI_API_KEY="sk-proj-Qfn6JA3NFh_uAVRhw0bCWY4HHHd3KZjO4QR8XT-a7Mn0DAJwKbU8wXaeDMHJhrgseCE-3VQ7o5T3BlbkFJVHsK0rXpYbLCA4kzEBPLM65QQfHmPLmF7FHjIsLFXUAiEm_r_PaSCY6_gRD6ik2xXfNz5upUk"
-
 
 A multi-agent system that automates digital campaign planning using **Gemini AI** and **CrewAI** agents.
 click this link for demo :  https://campaignagentwebapp.onrender.com/
