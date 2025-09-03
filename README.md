@@ -1,4 +1,5 @@
 # Multi-Agent Campaign Assistant
+GEMINI_API_KEY="AIzaSyBD8CjW2b7pCucLPgXb5SWI4StrtieXLbk"
 
 A multi-agent system that automates digital campaign planning using **Gemini AI** and **CrewAI** agents.
 click this link for demo :  https://campaignagentwebapp.onrender.com/
